@@ -10,8 +10,8 @@ public class GameManager : MonoBehaviour
     public GameObject gameoverText;
     public TextMeshProUGUI timeText;
     public TextMeshProUGUI recordText;
+    public float surviveTime;
 
-    private float surviveTime;
     private bool isGameover;
 
     void Start()

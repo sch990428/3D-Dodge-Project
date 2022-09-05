@@ -1661,6 +1661,7 @@ MonoBehaviour:
   gameoverText: {fileID: 2027684878}
   timeText: {fileID: 1647562466}
   recordText: {fileID: 1639660523}
+  surviveTime: 0
 --- !u!4 &1847810109
 Transform:
   m_ObjectHideFlags: 0
